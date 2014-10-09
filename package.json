@@ -1,7 +1,7 @@
 {
   "name": "fis-optimizer-ng-annotate",
   "description": "Adds AngularJS dependency injection annotations.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Lamtin <lamtin@qq.com>",
   "homepage": "http://www.yoozi.cn/",
   "repository": {
