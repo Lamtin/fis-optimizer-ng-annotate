@@ -4,6 +4,10 @@
   "version": "0.0.1",
   "author": "Lamtin <lamtin@qq.com>",
   "homepage": "http://www.yoozi.cn/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lamtin/fis-optimizer-ng-annotate"
+  },
   "keywords": [
     "fis",
     "angular"
